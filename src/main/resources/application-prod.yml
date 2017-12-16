@@ -1,0 +1,10 @@
+server:
+# 默认端口就是8080
+  port: 8081
+
+girl:
+  age: 18
+  height: 166cm
+
+
+info: "age: ${girl.age}, height: ${girl.height}"
