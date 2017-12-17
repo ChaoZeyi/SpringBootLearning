@@ -29,8 +29,6 @@ public class Swagger2Configuration {
                 .apiInfo(apiInfo())
                 .select()
                 .apis(RequestHandlerSelectors.basePackage("com.spring.controller"))
-//                .apis(RequestHandlerSelectors.withMethodAnnotation(ApiOperation.class))
-
                 .paths(PathSelectors.any())
                 .build();
     }
