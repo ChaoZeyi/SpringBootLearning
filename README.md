@@ -80,5 +80,5 @@ DELETE	/girls/id		通过id删除一个女生
 ### RESTful APIs测试
 
 对于上面的多个API，需要测试其功能是否正常，对于GET类型的方法，可以很方便的在浏览器中进行访问，但POST方法就不是很方便，之前采用的都是
-postman，现在了解了Swagger2之后，觉得更加方便，在[这里](https://github.com/ChaoZeyi/myWebsite/blob/70ce00fd0977761240d913bcb3296e1d35175d76/articles/2017.12/SpringBoot+Mybatis.md)
+postman，现在了解了Swagger2之后，觉得更加方便，在[这里](https://github.com/ChaoZeyi/myWebsite/blob/70ce00fd0977761240d913bcb3296e1d35175d76/articles/2017.12/SpringBoot+Swagger2.md)
 给出配置方法。
